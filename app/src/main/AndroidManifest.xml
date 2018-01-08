@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.rhinofc.myapplication">
+    package="com.example.rhinofc.SFinance">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <meta-data android:name="app_uuid" android:value="721a7923-3d7d-49c9-9771-3df9e8a90983"/>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.rhinofc.SFinance.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

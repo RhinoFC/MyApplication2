@@ -1,4 +1,4 @@
-package com.example.rhinofc.myapplication;
+package com.example.rhinofc.SFinance;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

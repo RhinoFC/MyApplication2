@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.rhinofc.myapplication"
+        applicationId "com.example.rhinofc.SFinance"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1

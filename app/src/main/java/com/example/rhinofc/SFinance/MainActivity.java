@@ -1,4 +1,4 @@
-package com.example.rhinofc.myapplication;
+package com.example.rhinofc.SFinance;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

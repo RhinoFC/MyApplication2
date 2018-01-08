@@ -1,4 +1,4 @@
-package com.example.rhinofc.myapplication;
+package com.example.rhinofc.SFinance;
 
 import org.junit.Test;
 
